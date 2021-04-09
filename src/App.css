@@ -62,11 +62,10 @@ button {
 	div.navbar-links {
 		margin-right: 0;
 		position: absolute;
-		width: 50%;
+		width: 100%;
 		background: #1f2228;
 		z-index: 99;
-		margin-top: 3rem;
-		float: right;
+		margin-top: 2.7rem;
 		right: 0;
 		height: 100vh;
 		transition: all ease-in-out 0.3s;
@@ -87,6 +86,7 @@ button {
 		padding-top: 10px;
 		padding-bottom: 10px;
 		margin-left: 0;
+		text-align: center;
 	}
 	li.nav-item a.nav-link {
 		padding: 10px 20px;
