@@ -36,7 +36,7 @@ function App() {
 									className='nav-link'
 									activeClassName='is-active'
 									exact={true}
-									to='/'
+									to='navbartemplate/'
 								>
 									Home
 								</NavLink>
@@ -46,7 +46,7 @@ function App() {
 									className='nav-link'
 									activeClassName='is-active'
 									exact={true}
-									to='/contact'
+									to='navbartemplate/contact'
 								>
 									Contact
 								</NavLink>
@@ -56,7 +56,7 @@ function App() {
 									className='nav-link'
 									activeClassName='is-active'
 									exact={true}
-									to='/about'
+									to='navbartemplate/about'
 								>
 									About
 								</NavLink>
