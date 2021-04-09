@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/navbartemplate/static/css/main.26e7a3d2.chunk.css",
-    "main.js": "/navbartemplate/static/js/main.9b9c0d87.chunk.js",
-    "main.js.map": "/navbartemplate/static/js/main.9b9c0d87.chunk.js.map",
+    "main.css": "/navbartemplate/static/css/main.2d2561ee.chunk.css",
+    "main.js": "/navbartemplate/static/js/main.46a68fb5.chunk.js",
+    "main.js.map": "/navbartemplate/static/js/main.46a68fb5.chunk.js.map",
     "runtime-main.js": "/navbartemplate/static/js/runtime-main.cb8bb5e0.js",
     "runtime-main.js.map": "/navbartemplate/static/js/runtime-main.cb8bb5e0.js.map",
-    "static/js/2.e6746570.chunk.js": "/navbartemplate/static/js/2.e6746570.chunk.js",
-    "static/js/2.e6746570.chunk.js.map": "/navbartemplate/static/js/2.e6746570.chunk.js.map",
+    "static/js/2.050cb3a4.chunk.js": "/navbartemplate/static/js/2.050cb3a4.chunk.js",
+    "static/js/2.050cb3a4.chunk.js.map": "/navbartemplate/static/js/2.050cb3a4.chunk.js.map",
     "index.html": "/navbartemplate/index.html",
-    "static/css/main.26e7a3d2.chunk.css.map": "/navbartemplate/static/css/main.26e7a3d2.chunk.css.map",
-    "static/js/2.e6746570.chunk.js.LICENSE.txt": "/navbartemplate/static/js/2.e6746570.chunk.js.LICENSE.txt"
+    "static/css/main.2d2561ee.chunk.css.map": "/navbartemplate/static/css/main.2d2561ee.chunk.css.map",
+    "static/js/2.050cb3a4.chunk.js.LICENSE.txt": "/navbartemplate/static/js/2.050cb3a4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cb8bb5e0.js",
-    "static/js/2.e6746570.chunk.js",
-    "static/css/main.26e7a3d2.chunk.css",
-    "static/js/main.9b9c0d87.chunk.js"
+    "static/js/2.050cb3a4.chunk.js",
+    "static/css/main.2d2561ee.chunk.css",
+    "static/js/main.46a68fb5.chunk.js"
   ]
 }
