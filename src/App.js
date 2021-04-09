@@ -1,5 +1,5 @@
 import './App.css';
-import { useRef, useEffect } from 'react';
+import { useRef } from 'react';
 import { BrowserRouter, NavLink } from 'react-router-dom';
 import AllRoutes from './AllRoutes';
 function App() {
