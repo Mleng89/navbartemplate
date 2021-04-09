@@ -1,6 +1,6 @@
 # Navbar template
 
-This is a very simple navbar template for anybody to use and tinker around with! I originally had some issues building out a responsive navbar and figured  other developers may be in the same boat as I was!  
+This is a simple navbar template for anybody to use and tinker around with! I originally had some issues building out a responsive navbar and figured  other developers may be in the same boat as I was!  
 
 ### Installation and running the repository
 
