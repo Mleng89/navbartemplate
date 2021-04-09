@@ -12,6 +12,18 @@ body {
 	background-color: #1f2228;
 	color: white;
 }
+button {
+	border: none;
+	background-color: transparent;
+	outline: none;
+}
+
+.toggle-button .bar {
+	height: 3px;
+	width: 100%;
+	background-color: white;
+	border-radius: 10px;
+}
 .brand-title {
 	font-size: 1.5rem;
 	margin: 0.5rem;
@@ -34,4 +46,49 @@ body {
 }
 .navbar-links li:hover {
 	background-color: #555;
+}
+
+@media only screen and (max-width: 750px) {
+	.toggle-button {
+		position: absolute;
+		top: 0.75rem;
+		right: 1rem;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		width: 30px;
+		height: 21px;
+	}
+	div.navbar-links {
+		margin-right: 0;
+		position: absolute;
+		width: 50%;
+		background: #1f2228;
+		z-index: 99;
+		margin-top: 3rem;
+		float: right;
+		right: 0;
+		height: 100vh;
+		transition: all ease-in-out 0.3s;
+		align-self: flex-start;
+	}
+	ul.links-list {
+		display: flex;
+		flex-direction: column;
+		padding-left: 0;
+	}
+	.navbar-links.menu-collapse {
+		margin-right: -75%;
+		width: 0;
+		overflow: hidden;
+	}
+	li.nav-item {
+		padding-left: 20px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		margin-left: 0;
+	}
+	li.nav-item a.nav-link {
+		padding: 10px 20px;
+	}
 }
