@@ -1,9 +1,17 @@
 * {
 	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+p {
+	font-size: larger;
 }
 body {
 	margin: 0;
 	padding: 0;
+}
+
+.page-container {
+	text-align: center;
 }
 .navbar {
 	display: flex;
@@ -16,6 +24,11 @@ button {
 	border: none;
 	background-color: transparent;
 	outline: none;
+}
+.email_link {
+	font-size: 20px;
+	text-decoration: none;
+	color: black;
 }
 
 .toggle-button .bar {
@@ -48,6 +61,18 @@ button {
 	background-color: #555;
 }
 
+.footer_text {
+	margin: auto;
+	padding: auto;
+	display: flex;
+	flex-flow: column;
+	justify-content: space-between;
+}
+
+.footer_item {
+	padding-left: 2rem;
+	margin: 1rem;
+}
 @media only screen and (max-width: 750px) {
 	.toggle-button {
 		position: absolute;
