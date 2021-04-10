@@ -5,11 +5,9 @@ import AllRoutes from './AllRoutes';
 function App() {
 	const navbarLinks = useRef(null);
 	const handleNavBar = (e) => {
-		// console.log('what is my navbarLinks', navbarLinks.current);
 		navbarLinks.current.classList.toggle('menu-collapse');
 	};
 	const hideNav = () => {
-		// console.log('this is inside hideNav function');
 		if (!navbarLinks.current.classList.contains('menu-collapse'))
 			navbarLinks.current.classList.add('menu-collapse');
 	};
