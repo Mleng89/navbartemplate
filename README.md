@@ -7,7 +7,7 @@ This is a simple navbar template for anybody to use and tinker around with! I or
 1) Cloning the repository onto your local machine
 
 ```js
-git clone https://github.com/2011-libra/notables.git
+git clone https://github.com/Mleng89/navbartemplate.git
 ```
 
 2) Install dependencies
